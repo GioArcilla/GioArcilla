@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there 👋 my name is Gio Arcilla
+
+## Network Administrator
+
+Certified network associate with experience supporting large-scale, enterprise environments.
+
+- 🌍 I'm based in the US
+- 🖥️ See my portfolio at [MyGitHub](https://github.com/GioArcilla)
+- 🧠 I'm currently learning: AWS Architecture through certification and real-world deployments
+- 👍 Pineapple on pizza 
 
 <!--
 **GioArcilla/GioArcilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
