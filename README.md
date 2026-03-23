@@ -1,6 +1,6 @@
 # Hi there 👋 my name is Gio Arcilla
 
-## Network Administrator
+## Infrastructure Technician
 
 Certified network associate with experience supporting large-scale, enterprise environments.
 
