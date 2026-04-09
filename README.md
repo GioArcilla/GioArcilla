@@ -7,7 +7,7 @@ Certified network associate with experience supporting large-scale, enterprise e
 - 🌍 I'm based in the US
 - 🖥️ See my portfolio at [MyGitHub](https://github.com/GioArcilla)
 - 🧠 I'm currently learning: AWS Architecture through certification and real-world deployments
-- 👍 Ask me about Parker
+- 🐶 Ask me about Parker
 
 <!--
 **GioArcilla/GioArcilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
