@@ -6,7 +6,7 @@ Certified network associate with experience supporting large-scale, enterprise e
 
 - 🌍 I'm based in the US
 - 🖥️ See my portfolio at [MyGitHub](https://github.com/GioArcilla)
-- 🧠 I'm currently learning: AWS Architecture through certification and real-world deployments
+- 🧠 I'm currently learning: AWS Architecture through certification and deployments
 - 🐶 Ask me about Parker
 
 <!--
