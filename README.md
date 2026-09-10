@@ -2,7 +2,7 @@
 
 ## Infrastructure Technician
 
-Certified network associate with experience supporting large-scale, enterprise environments.
+Certified network associate with experience supporting enterprise environments.
 
 - 🌍 I'm based in the US
 - 🖥️ See my portfolio at [MyGitHub](https://github.com/GioArcilla)
